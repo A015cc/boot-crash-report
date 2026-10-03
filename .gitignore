@@ -1,0 +1,4 @@
+# 运行时产物，不进版本库
+state.txt
+last-report.txt
+*.lnk
